@@ -922,7 +922,7 @@ let category = [
         name: "Kitchenware",
       },
       {
-        name: "Décor",
+        name: "Décors",
       },
     ],
   },
@@ -936,12 +936,12 @@ let category = [
         name: "Non-Fiction",
       },
       {
-        name: "School & Office Supplies",
+        name: "School & Office Supplie",
       },
     ],
   },
   {
-    name: "Sports & Outdoors",
+    name: "Sports & Outdoor",
     subcategory: [
       {
         name: "Apparel & Footwear",
