@@ -82,7 +82,7 @@ let productInfo = [
     badgeText: "10%",
     productImageSrc: productImageTwo,
     productName: "Bluetooth Headphones",
-    productPrice: "$15.00",
+    productPrice: "$14.00",
     productColor: "green",
   },
   {
