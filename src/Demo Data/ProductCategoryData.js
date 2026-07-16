@@ -10,7 +10,7 @@ let productInfo = [
     badgeText: "new",
     productImageSrc: productImageOne,
     productName: "Wireless Earbuds",
-    productPrice: "$16.00",
+    productPrice: "$17.00",
     productColor: "purple",
   },
   {
